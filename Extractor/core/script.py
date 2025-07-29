@@ -8,7 +8,7 @@ START_TXT = """
 
 **<blockquote>ɪ'ᴍ ᴀᴅᴇᴘᴛ ᴀᴛ ᴇxᴛʀᴀᴄᴛɪɴɢ ᴏɴʟɪɴᴇ ᴄᴏᴜʀsᴇs ᴡɪᴛʜ ᴄᴜᴛᴛɪɴɢ-ᴇᴅɢᴇ ᴛᴇᴄʜɴᴏʟᴏɢʏ. ɪ'ᴠᴇ ᴍᴀɴᴀɢᴇᴅ ᴛᴏ ɢᴀᴛʜᴇʀ ʟɪɴᴋs ғᴏʀ ᴀʟᴍᴏsᴛ ᴀʟʟ ᴀᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴜʀsᴇs, ᴍᴀᴋɪɴɢ ᴛʜᴇ ᴘʀᴏᴄᴇss ᴇғғᴏʀᴛʟᴇss ᴀɴᴅ ᴇғғɪᴄɪᴇɴᴛ.</blockquote>**
 
-**<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : Team JNC</blockquote>**
+**<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : 𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍</blockquote>**
 """
 
 FORCE_MSG = """
@@ -16,7 +16,7 @@ FORCE_MSG = """
 
 **<blockquote>ᴀᴄᴄᴏʀᴅɪɴɢ ᴛᴏ ᴍʏ ᴅᴀᴛᴀʙᴀsᴇ ʏᴏᴜ'ᴠᴇ ɴᴏᴛ ᴊᴏɪɴᴇᴅ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ʏᴇᴛ, ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ ᴜsᴇ ᴍᴇ ᴛʜᴇɴ ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ ᴀɴᴅ sᴛᴀʀᴛ ᴍᴇ ᴀɢᴀɪɴ !</blockquote>**
 
-**<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : Team JMC</blockquote>**
+**<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : 𝘽𝙃𝙐𝙈𝙄𝙃𝘼𝙍</blockquote>**
 """
 
 MODES_TXT = """
